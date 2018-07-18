@@ -1,5 +1,7 @@
 # SphinxDocs
 
+[![Build Status](https://travis-ci.org/SloCompTech/docker-sphinxdocs.svg?branch=master)](https://travis-ci.org/SloCompTech/docker-sphinxdocs)
+
 ## What is it ?
 It it simple docker which provides tools to easly build sphinx docs.
 
