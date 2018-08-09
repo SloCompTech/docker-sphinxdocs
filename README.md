@@ -1,5 +1,9 @@
 # SphinxDocs
 
+<p align="center">
+  <img src="https://github.com/familqasimov/docker-sphinxdocs/blob/master/logo/logo.svg" height="30%" width="30%">
+</p>
+
 [![Build Status](https://travis-ci.org/SloCompTech/docker-sphinxdocs.svg?branch=master)](https://travis-ci.org/SloCompTech/docker-sphinxdocs)
 
 ## What is it ?
