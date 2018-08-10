@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="83.4289mm" height="83.4289mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10909 10909"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil1 {fill:#2B2A29}
+    .fil0 {fill:#2B2A29}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_316570152">
+   <g>
+    <path class="fil0" d="M6868 2431l-330 -325c192,65 384,144 574,224 -79,33 -161,67 -244,101zm1812 1783l-1122 -1103c145,-52 293,-106 442,-156l1100 1083 0 4975c0,735 -601,1337 -1337,1337l-4617 0c-736,0 -1337,-602 -1337,-1337l0 -7117c0,-735 601,-1337 1337,-1337l2220 0c-433,67 -857,217 -1265,363 -54,19 -108,38 -163,58l-792 0c-504,0 -917,413 -917,916l0 7117c0,503 413,916 917,916l4617 0c504,0 917,-413 917,-916l0 -4799z"/>
+    <rect class="fil0" x="2716" y="5146" width="5315.27" height="93.5567"/>
+    <rect class="fil0" x="2716" y="6359" width="5315.27" height="93.5567"/>
+    <rect class="fil0" x="2716" y="7606" width="5315.27" height="93.5567"/>
+    <rect class="fil0" x="2716" y="8826" width="5315.27" height="93.5567"/>
+    <rect class="fil0" x="2716" y="3928" width="5315.27" height="93.5567"/>
+    <path class="fil1" d="M2818 2520c989,137 1997,777 2995,777 999,0 2007,-640 2996,-777 62,-7 93,-98 93,-189 0,-91 -31,-182 -93,-189 -989,-137 -1997,-777 -2996,-777 -998,0 -2006,640 -2995,777 -63,7 -94,98 -93,189 -1,91 30,182 93,189zm3371 -739c60,90 95,199 95,315 0,317 -257,574 -573,574 -317,0 -574,-257 -574,-574 0,-92 22,-180 61,-257 -427,121 -854,334 -1280,492 631,233 1264,588 1895,588 631,0 1265,-355 1896,-588 -506,-187 -1013,-452 -1520,-550zm-3371 -257c989,-137 1997,-777 2995,-777 999,0 2007,640 2996,777 122,17 124,350 7,377 -436,-65 -871,-229 -1284,-376 -549,-197 -1125,-399 -1715,-400l-4 0 -3 0c-590,1 -1166,203 -1714,399 -414,148 -849,312 -1285,377 -118,-27 -115,-360 7,-377z"/>
+   </g>
+   <rect class="fil2" width="10909" height="10909"/>
+  </g>
+ </g>
+</svg>
